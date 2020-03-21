@@ -16,6 +16,7 @@ O desenvolvimento consiste em um radar de desenvolvedores, nesta aplicação é 
 Para executar este projeto clone o repositório para seu ambiente de trabalho, acesse os diretórios de `backend`, `mobile` e `web` e execute o comando `npm install` no terminal para cada um dos diretórios.
 
 Configure o acesso ao banco de dados da apliação, caso possua o docker instalado basta executar o comando abaixo:
+
 ```
 docker run --name mongodb -p 27017:27017 -d mongo
 ```
@@ -23,9 +24,9 @@ docker run --name mongodb -p 27017:27017 -d mongo
 Caso prefira não utilizar o comando acima, acesse o arquivo [index.js](backend/src/index.js) do diretório `backend/src` e altere a string de conexão na linha 14 para o endereço do banco de dados desejado. Nota, este banco precisa ser o mongodb.
 
 Após realizar os passos descritos a aplicação pode ser executada, execute os seguintes comandos em cada um dos diretórios:
-* backend - npm run dev
-* web - npm run start
-* mobile - npm run start *Nota¹* *Nota²*
+* backend - `npm run dev`
+* web - `npm run start`
+* mobile - `npm run start` *Nota¹* *Nota²*
 
 Lembre-se que para o site e o app funcionar corretamente é preciso executar o backend primeiro.
 
@@ -35,7 +36,7 @@ Lembre-se que para o site e o app funcionar corretamente é preciso executar o b
 
 ## Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
