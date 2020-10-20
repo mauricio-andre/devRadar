@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="DevRadar" title="DevRadar" src="assets/devradar.svg" width="250px" />
+    <img alt="DevRadar" title="DevRadar" src=".github/devradar.svg" width="250px" />
 </h1>
 
 <p align="center">
@@ -9,7 +9,7 @@
 ## Sobre o repositório
 Este repositório contém o projeto desenvolvido durante a semana omnistack 10 promovida pela Rocketseat. Durante o período de uma semana desenvolvemos o backend, o frontend e o app mobile deste projeto usando Node, ReactJs e React Native.
 
-O desenvolvimento consiste em um radar de desenvolvedores, nesta aplicação é possível utilizar o site web para cadastrar contas de desenvolvedores que se integra com a API do Github para buscar informações do dev, e com o app mobile é possivel localizar os desenvolvedores que estão a 10 Km de distância de você, apresentando estes devs como pontos no mapa, já que o app integra a API de georreferenciamento.
+O desenvolvimento consiste em um radar de desenvolvedores, nesta aplicação é possível utilizar o site web para cadastrar contas de desenvolvedores que se integra com a API do Github para buscar informações do dev, e com o app mobile é possível localizar os desenvolvedores que estão a 10 Km de distância de você, apresentando estes devs como pontos no mapa, já que o app integra a API de georreferenciamento.
 
 
 ## Get Started
