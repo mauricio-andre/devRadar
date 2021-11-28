@@ -6,6 +6,8 @@
 :rocket: Projeto desenvolvido em evento da <a href="https://rocketseat.com.br/">Rocketseat</a>
 </p>
 
+:warning: Este projeto não está recebendo atualizaçõe, antes de utiliza-lo, execute o comando `yarn audit` para checar vulnerabilidades nas dependencias do mesmo. :warning:
+
 ## Sobre o repositório
 Este repositório contém o projeto desenvolvido durante a semana omnistack 10 promovida pela Rocketseat. Durante o período de uma semana desenvolvemos o backend, o frontend e o app mobile deste projeto usando Node, ReactJs e React Native.
 
